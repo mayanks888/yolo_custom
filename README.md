@@ -1,6 +1,6 @@
 
 
-This repo is greatly inspired from  Ultralytics inference and training code for YOLOv3 in PyTorch and [AlexeyAB](https://github.com/AlexeyAB)/**[darknet](https://github.com/AlexeyAB/darknet)**  https://github.com/AlexeyAB/darknet . I have observed training on ultralytics code is does not give appropriate accuracy as compare to AlexeyAB darknet. So I am trying to train my code in AlexeyAB/darkent and run inference code in ultralytics. 
+This repo is greatly inspired from  Ultralytics inference for YOLOv3 in PyTorch and [AlexeyAB](https://github.com/AlexeyAB)/**[darknet](https://github.com/AlexeyAB/darknet)**  https://github.com/AlexeyAB/darknet . I have observed training on ultralytics code does not give appropriate accuracy as compare to AlexeyAB darknet. So I am trying to train my code in AlexeyAB/darkent and run inference code in ultralytics. 
 
 some minor modification is made in the code for better visualisation of output.
 
